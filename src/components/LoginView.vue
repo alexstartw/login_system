@@ -12,6 +12,10 @@
       Login
     </button>
 
+    <button class="btn btn-outline-dark" type="submit">
+      Register
+    </button>
+
     <p>Username is: {{input.username}}</p>
     <p>Password is: {{input.password}}</p>
   </form>
